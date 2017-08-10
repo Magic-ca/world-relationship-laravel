@@ -302,6 +302,6 @@ Relationship uses a lot of open source projects and we thank them with all our h
 
 ## License
 
-Copyright © 2016–2022
+Copyright © 2016–2017
 
 Licensed under [the AGPL License](/LICENSE.md).
