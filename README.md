@@ -1,8 +1,3 @@
-<p align="center">
-
-![Relationship's Logo](https://user-images.githubusercontent.com/61099/37693034-5783b3d6-2c93-11e8-80ea-bd78438dcd51.png)
-
-<p>
 <h1 align="center">Personal Relationship Manager</h1>
 
 <div align="center">
